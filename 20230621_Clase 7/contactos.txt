@@ -1,0 +1,14 @@
+nombre: Ignacio
+apellido: Rossia
+telefono: 3573401332
+domicilio: Dr. Ludueña 732
+
+nombre: Fran
+apellido: Fernandez
+telefono: 3573692069
+domicilio: Atahona 200
+
+nombre: Matias      
+apellido: Arguello
+telefono: 35166367373
+domicilio: T.Montenegro 335

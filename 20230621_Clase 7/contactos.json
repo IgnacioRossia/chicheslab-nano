@@ -1,0 +1,47 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Ignacio",
+        "apellido": "rossia",
+        "telefonos": [
+            {
+                "tipo": "personal",
+                "numero": "3573401332"
+            },
+            {
+                "tipo": "oficina",
+                "numero": "3573578609"
+            }
+        ],
+        "domicilio": "Dr. Ludueña 732",
+        "edad": 35,
+        "donante": true,
+        "coord": {
+            "lat": -23.7273728382,
+            "long": 12.83837632
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Fran",
+        "apellido": "Fernandez",
+        "telefonos": [
+            {
+                "tipo": "personal",
+                "numero": "3573646474"
+            },
+            {
+                "tipo": "oficina",
+                "numero": "3573774747"
+            }
+        ],
+        "domicilio": "Dr. Ludueña 732",
+        "edad": 35,
+        "donante": true,
+        "coord": {
+            "lat": -23.7273728382,
+            "long": 12.83837632
+        }
+    }
+]
